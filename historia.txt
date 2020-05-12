@@ -1,7 +1,1 @@
-Esta sera la historia de Daniel bebesita :) .
-Daniel realmente es bueno en lo que hace, aunque no se vean muchos avances monetarios.
-
-Mañana proseguimos.
-
-Hoy esta aprendiendo sobre git y github.
-Ahora probaremos la vaina de vin o Vim, no se bien xD.
+Hemos hecho diversos cambios en el repositorio.
