@@ -1,3 +1,5 @@
 Hemos hecho diversos cambios en el repositorio.
 
 Solo agregue el html + el css.
+
+Ahora prueba la vaina del head
