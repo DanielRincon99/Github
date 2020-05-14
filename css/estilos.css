@@ -17,7 +17,7 @@ body h1{
 .container{
     margin-left: 35%;
     float: left;
-    text-align: left;
+    text-align: center;
     border: 2px solid rgb(134, 128, 128);
     padding:1em;
 }
