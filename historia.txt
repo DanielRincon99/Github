@@ -4,6 +4,6 @@ Solo agregue el html + el css.
 
 Ahora prueba la vaina del head
 
-cambio 1.
+Acabo de cambiar la historia desde la consola brooo xD
 
 Cambio 2.
