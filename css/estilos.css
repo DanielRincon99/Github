@@ -38,9 +38,9 @@ body h1{
 }
 
 footer{
+    font-family: 'Times New Roman';
     bottom: 0;
     padding: 5px;
     position: fixed;
     width: 20%;
-    background-color: blue;
 }
