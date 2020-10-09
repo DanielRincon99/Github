@@ -1,6 +1,11 @@
+.menu{
+    background: black;
+}
+.menu:hover{
+text-decoration:underline white;}
+
 #menu div{
     padding: 1%;
-    background: red;
 }
 #menu a{
     padding: 2px;
@@ -15,9 +20,7 @@ body h1{
     text-align: center;
 }
 
-#cabecera{
-    
-}
+
 .container{
     width: 40%;
     margin: auto;
