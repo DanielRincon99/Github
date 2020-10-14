@@ -38,6 +38,8 @@ body h1{
 
 .container ol, ul{
     list-style-type: none;
+    text-align: left;
+    margin-left: 25%;
 }
 
 footer{
