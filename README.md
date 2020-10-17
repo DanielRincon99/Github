@@ -1,5 +1,4 @@
 # Curso de Git y Github | Platzi
-
 ------------
 Aqui estan todos los commit, Pull Request, Push.., Todo!! lo que hice para obtener el conocimiento necesario ccrear y manejar eficientemente mi propio repositoro.
 
